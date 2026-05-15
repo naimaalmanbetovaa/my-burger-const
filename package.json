@@ -1,5 +1,5 @@
 {
-  "name": "my-burger-constructor",
+  "name": "my-burger-const",
   "private": true,
   "version": "0.1.0",
   "type": "module",
