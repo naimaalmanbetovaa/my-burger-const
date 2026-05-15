@@ -1,0 +1,70 @@
+.BreadBottom {
+  height: 80px;
+  width: 300px;
+  background: linear-gradient(#f08e4a, #e27b36);
+  border-radius: 0 0 30px 30px;
+  margin: auto;
+}
+
+.BreadTop {
+  height: 100px;
+  width: 300px;
+  background: linear-gradient(#bc581e, #e27b36);
+  border-radius: 50% 50% 0 0;
+  margin: auto;
+  position: relative;
+}
+
+.Seeds1,
+.Seeds2 {
+  width: 10%;
+  height: 15%;
+  position: absolute;
+  background-color: white;
+  border-radius: 40%;
+}
+
+.Seeds1 {
+  left: 30%;
+  top: 50%;
+}
+
+.Seeds2 {
+  left: 64%;
+  top: 50%;
+}
+
+.Burger {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.salad {
+  width: 300px;
+  height: 20px;
+  background: lightgreen;
+  margin: 5px auto;
+  border-radius: 20px;
+}
+
+.cheese {
+  width: 320px;
+  height: 20px;
+  background: gold;
+  margin: 5px auto;
+}
+
+.meat {
+  width: 300px;
+  height: 40px;
+  background: brown;
+  margin: 5px auto;
+  border-radius: 15px;
+}
+
+.bacon {
+  width: 300px;
+  height: 15px;
+  background: #bf3813;
+  margin: 5px auto;
+}
